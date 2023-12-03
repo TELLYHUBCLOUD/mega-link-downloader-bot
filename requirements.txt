@@ -5,7 +5,7 @@ beautifulsoup4
 hachoir
 numpy
 Pillow
-git+https://github.com/XMYSTERlOUSX/pyrogram
+git+https://github.com/Joelkb/cinemagoer
 requests
 tgcrypto
 python-dotenv
